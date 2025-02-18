@@ -18,7 +18,7 @@ class App extends Component {
         <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
         <ScrollView contentInsetAdjustmentBehavior="automatic">
           <View style={styles.headerContainer}>
-            <Text style={styles.headerText}>Welcome to React Native</Text>
+            <Text style={styles.headerText}>Test 12345</Text>
           </View>
           <View style={styles.sectionContainer}>
             <Text style={styles.sectionTitle}>Step One</Text>
